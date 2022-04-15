@@ -1,0 +1,101 @@
+body{
+    color: white;
+    font-family: "Helvetica Neue";
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+  }
+  
+  main{
+    width: 480px;
+    height: 580px;
+    border-radius: 15px;
+    background-color: #1b263e;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  }
+  
+  
+  #arti{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  a{
+    text-decoration: none;
+    color: #e3627f;
+  }
+  
+  
+  /*---BARRA 1-------*/
+  
+  section.barra-1 p.p1{
+    text-align: right;
+    padding: 20px;
+  }
+  
+  h1{
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  
+  section.barra-1 p.p2{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+  }
+  
+  
+  /*---BARRA 2-------*/
+  
+  .barra-2{
+    width: max-content;
+    margin: 0 auto;
+  }
+  
+  
+  .barra-2 h4{
+      margin-bottom: 5px;
+      text-align: left;
+  }
+  
+  input:not(.boton){
+     background-color: transparent;
+     padding: 10px;
+     border-radius: 5px;
+     border:1px solid #0046d1;
+     color: rgb(235, 235, 235);
+  }
+  
+  .barra-2 .boton{
+    padding: 10px;
+    margin: 0 auto;
+    width: 90%;
+    color: white;
+    display: block;
+    background-color: #e3627f;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .boton:hover{
+    background-color: #e77991;
+  }
+  
+  
+  /*---BARRA 3-------*/
+  
+  div{
+    border-radius: 10px;
+    background-color: #202e4e;
+    padding: 25px;
+    font-size: 10px;
+  }
+  
+  
